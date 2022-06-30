@@ -1,0 +1,63 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Serif'
+}
+
+.img {
+    border-radius: 10px;
+}
+
+.conteiner {
+    max-width: 650px;
+    /* width: 90%; */
+    margin: auto;
+}
+
+.kontakt {
+    margin: auto;
+    text-align: center;
+}
+
+h4 {
+    margin: 4px 4px 4px 4px;
+    font-style: italic;
+    size: 30;
+    text-decoration: underline;
+    color: #4a4233;
+}
+
+ul {
+    margin: 4px 4px 4px 4px;
+}
+
+.card {
+    background-color: aquamarine;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.table1 td:nth-child(2) {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.table3 tr:nth-child(2) {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline
+}
+
+.table3 {
+    width: 100%;
+    text-align: center;
+}
+
+.conteiner1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.myPhoto {
+    width: 220px;
+}
